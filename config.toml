@@ -18,7 +18,7 @@ domain = ""
 port = 5432
 
 [server.server]
-port = 8080
+port = 80
 wisp = true
 logging = true # Disable for the tons & tons of logs to go away (useful for debugging but otherwise eh)
 
